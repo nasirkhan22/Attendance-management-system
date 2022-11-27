@@ -1,0 +1,79 @@
+.PageContainer {
+    
+    align-items:flex-start;
+    justify-content:right;
+    margin-top: 10%;
+    margin-left: 0px;
+    padding: 20px;
+
+
+}
+ .HeaderBorder{
+    display:flex;
+    flex-direction:row;
+    margin-top: 20px;
+    border: 1px solid;
+    align-items: right;
+    justify-content: center;
+    
+
+} 
+.BoxHeader{
+    padding: 40px;
+}
+/* .DataLoad{
+padding: 20px;
+height: 60px;
+justify-content: space-between;
+
+}  */
+.BoxBorder{
+    margin-top: 14%;
+    margin-bottom: 10%;
+    margin-right: 20%;
+    display: flex;
+    height: 10px;
+    align-items:flex-start;
+}  
+.content{
+    padding: 20px;
+    
+}
+ /* .Box{
+    
+    height: 30px;
+    border: 1px solid;
+    justify-content: space-between;
+}  */
+/* .ButtonRecord{
+    height: 30px;
+}
+.ButtonRecord button{
+    width: 200px;
+    
+}
+ .DataLoad{
+padding: 20px;
+height: 27px;
+
+} 
+.HeaderBorder{
+    height: 80px;
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+} 
+ .BoxBorder{
+    border: 1px solid;
+    display: flex;
+    height: 80%;
+}
+.Box{
+    
+    height: 20px;
+    border: 1px solid;
+}
+.BoxHeader{
+    height: 20px;
+    border: 1px solid;
+}  */

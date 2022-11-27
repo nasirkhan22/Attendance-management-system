@@ -1,0 +1,63 @@
+.Header{
+    height: calc(100% - 100px);
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: aliceblue;
+
+}
+.personName{
+    margin-top: 150px;
+    height: 20px;
+}
+.personName span{
+    margin-left: auto;
+}
+.Mark_Attendence{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 100px;
+    display: flex;
+    border: 1px solid #000;
+    margin-top: 20px;
+    width: calc(100% - 80px);
+}
+.box{
+    height: 100px;
+    width: 160px;
+    display: flex;
+    flex:1;
+    border: 1px solid #000;
+    align-items: center;
+    font-family: var(--font-family1);
+}
+.box h5{
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: larger;
+    width: 100px;
+}
+.Mark_Attendence input{
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+}
+.SubmitButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-right: 20px;
+    height: 50px;
+}
+.SubmitButton button{
+    background-color: rgb(13, 104, 240);
+    color: aliceblue;
+    font-size: large;
+    height: 55px;
+    margin-left: 5px;
+    cursor: pointer;
+    width: 220px;
+    border-radius: 10px;
+
+}

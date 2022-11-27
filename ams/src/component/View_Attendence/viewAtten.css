@@ -1,0 +1,37 @@
+
+.NavigationButton{
+height: 100px;
+}
+
+.NavigationButton button{
+    background-color: transparent;
+    height: 45px;
+    margin-left: 5px;
+    cursor: pointer;
+    width: 180px;
+    border-radius: 20px;
+
+}
+.DataFolder{
+    overflow: auto;
+    height: calc(100% - 200px);
+}
+
+.DataTable{
+    height: 30px;
+    border: 1px solid;
+    width:80% ;
+    display: flex;
+    flex: 1;
+    
+}
+.BoxOfData{
+    border: 1px solid;
+    
+    
+}
+.BoxOfData h4{
+    margin-left: 30px;
+    margin-top: 5px;
+
+}

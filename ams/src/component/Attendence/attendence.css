@@ -1,0 +1,96 @@
+.NavBar{
+    position:fixed;
+    top:0;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(253, 250, 250);
+    display: flex;
+}
+.NavLogo{
+    display: flex;
+    flex: 0.9;
+
+}
+.NavLogo h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size:23px ;
+    margin-top: 10px;
+    
+}
+.NavLinks{
+    display: flex;
+    flex:1;
+    align-items: end;
+    justify-content:end;
+
+}
+.NavLinks Button{
+    background-color: transparent;
+    height: 45px;
+    margin-left: 5px;
+    margin-bottom: 7px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 0px;
+    padding: 10px;
+    
+}
+.ButtonMark{
+    border-top-left-radius:20px ;
+    border-bottom-left-radius: 20px;
+}
+.ButtonLeave{
+    border-top-right-radius:20px ;
+    border-bottom-right-radius: 20px;
+}
+.Image{
+    width: 200px;
+    height: 50px;
+    margin-left: 10px;
+    flex: 0.1;
+    
+
+}
+.Image img{
+    width: 75px;
+    height: 50px;
+    border-radius: 48%;
+    margin-top: 6px;
+}
+.Button{
+    
+}
+/* /////////if Clicked UserImage/////////// */
+
+.ImagePersonalDetail{
+    position:absolute;
+    top:50px;
+    right:0;
+    height: 200px;
+    width: 250px;
+    background-color: beige;
+    margin-right: 5px;
+    display: flex;
+    z-index: 9999999;
+    
+    
+}
+.DetailBox{
+text-align: center;
+
+}
+.DetailBox p{
+    margin-top: 10px;
+    height: 20px;
+    margin-bottom: 120px;
+}
+.DetailBox button{
+    cursor: pointer;
+    height: 20px;
+    
+}
+.DetailBox a{
+    text-decoration: none;
+    
+}

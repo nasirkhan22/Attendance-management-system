@@ -1,0 +1,40 @@
+.update h1{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin-left: 11%;
+    margin-bottom: 10%;
+}
+.PageContainerU {
+    
+    margin-top: 10%;
+    padding: 20px;
+
+}
+ .HeaderBorderU{
+    display:flex;
+    
+    margin-top: 20px;
+    border: 1px solid;
+    
+
+} 
+.BoxHeaderU{
+    padding: 40px;
+}
+.BoxBorderU {
+    margin-top: 10%;
+    
+} 
+.contentU1{
+
+    align-items:flex-end;
+    justify-content:flex-start
+
+}
+.contentU2{
+    margin-left: 2px;
+    align-items: left;
+    justify-content: left;
+
+}

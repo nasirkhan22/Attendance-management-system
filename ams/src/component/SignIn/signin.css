@@ -1,0 +1,100 @@
+.form h1{
+    margin-bottom: 10%;
+}
+.form{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px 32%;
+    padding: 40px;
+    align-items: left;
+    /* height: 600px; */
+}
+.form-body{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+ input[type=password],input[type=email] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+/* .SignUpContainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SignBox{
+    /* background-color: black; 
+    color: aliceblue;
+    width: 700px;
+    height: 400px;
+}
+.Data{
+    display: flex;
+    margin-top: 10px;
+    height: 39px;
+    justify-content: center;
+}
+.Data label{
+width: 119px;
+height: 35px;
+margin-top: 10px;
+
+}   
+.Data input{
+    width: 300px;
+    height: 35px;
+    border-radius: 8px;
+    font-family: var(--font-family2);
+    font-size: larger;
+}
+.SignBox button{
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 150px;
+    height: 50px;
+    font-family: var(--font-family2);
+    font-size:x-large;
+    border-radius: 8px;
+   color: black;
+}
+
+.NoAccount{
+    height: 30px;
+    text-align: end;
+    margin-top:20px;
+}
+.NoAccount a{
+    margin-right:45px;
+} */
+
+.gragientColor2{
+
+    /* ff 3.6+ */
+    background:-moz-linear-gradient(90deg, rgba(0, 188, 212, 1) 3%, rgba(238, 130, 238, 1) 100%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-linear-gradient(90deg, rgba(0, 188, 212, 1) 3%, rgba(238, 130, 238, 1) 100%);
+
+    /* opera 11.10+ */
+    background:-o-linear-gradient(90deg, rgba(0, 188, 212, 1) 3%, rgba(238, 130, 238, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EE82EE', endColorstr='#00BCD4', GradientType=0 );
+
+    /* ie 10+ */
+    background:-ms-linear-gradient(90deg, rgba(0, 188, 212, 1) 3%, rgba(238, 130, 238, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background:linear-gradient(90deg, rgba(0, 188, 212, 1) 3%, rgba(238, 130, 238, 1) 100%);
+    
+
+}
+  
